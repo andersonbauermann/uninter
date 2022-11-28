@@ -1,5 +1,5 @@
 # uninter
- Projetos criados na aula de lógica de programação e algoritmos, onde tive que realizar 4 exercícios.
+<strong> Projetos criados na aula de lógica de programação e algoritmos, onde tive que realizar 4 exercícios. </strong><br>
 Exercício 1:
 Enunciado: Imagina-se que você é um dos programadores responsáveis pela construção de app de vendas para uma determinada empresa X que vende em atacado. Para calcular o valor total que o deve-se levar em consideração o custo de embalagem conforme a tabela abaixo
 Quantidade	Custo Embalagem
@@ -7,8 +7,7 @@ Quantidade	Custo Embalagem
 11 <= quantidade < 101	R$ 60.00
 101 <= quantidade < 1001	R$ 120.00
 quantidade >= 1001	R$ 240.00
-Elabore um programa em Python que:
-
+<br>
 Exercício 2:
 Enunciado: Você e sua equipe de programadores foram contratados para desenvolver um app de vendas para uma sorveteria. Você ficou com a parte de desenvolver a interface do cliente para retirada do produto.
 A Sorveteria possui seguinte tabela com o código, descrição, tamanhos e os valores de sorvete:
@@ -19,7 +18,7 @@ Código	Descrição	Tamanho P
 TR |	Sabores Tradicionais |	P R$ 6,00 |	M R$ 10,00 | G	R$ 18,00
 ES |	Sabores Especiais |	P R$ 7,00 | M	R$ 12,00 | G	R$ 21,00
 PR |	Sabores Premium | P	R$ 8,00 | M	R$ 14,00 | G	R$ 24,00
-
+<br>
 Exercício 3:
 Enunciado: Imagina-se que você e sua equipe foram contratados por uma empresa preste serviços de limpeza para desenvolver a solução de software. Você ficou encarregado da parte de interação com o usuário.
 O valor que a empresa cobra por limpeza é dado pela seguinte equação:
@@ -34,15 +33,14 @@ Outros valores	Não são aceitos
 Tipo	Multiplicador
 B – Básica - Indicada para sujeiras semanais ou quinzenais	1.00
 C – Completa - Indicada para sujeiras antigas e/ou não rotineiras	1.30
-
-
+<br>
 Quadro 3: Adicionais versus valor
 Adicionais	Valor (R$)
 0- Não desejo mais nada (encerrar)	0,00
 1- Passar 10 peças de roupas - R$ 10.00
 2- Limpeza de 1 Forno/Micro-ondas - R$ 12,00
 3- Limpeza de 1 Geladeira/Freezer - R$ 20,00
-
+<br>
 Exercício 4:
 Enunciado: Imagina-se que você está desenvolvendo um software de controle de funcionários para uma empresa de RH. Este software deve ter o seguinte menu e opções:
 1.	Cadastrar Funcionário
