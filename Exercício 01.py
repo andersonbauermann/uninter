@@ -1,5 +1,5 @@
 # ---------Calculadora de custo final do produto mais frete-------------
-# Aluno: Anderson Bauermann Feltes | RU: 3920734
+
 
 print('Bem-vindo a loja do Anderson Bauermann Feltes')
 # Início entrada dos dados

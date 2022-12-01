@@ -1,4 +1,4 @@
-# Aluno: Anderson Bauermann Feltes | RU: 3920734
+
 # Exercício 3 da atividade prática
 
 # Início da função metragem_limpeza

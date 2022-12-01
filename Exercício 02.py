@@ -1,4 +1,3 @@
-# Aluno: Anderson Bauermann Feltes | RU: 3920734
 # Cardário para escolha do cliente
 print('Bem-vindo a sorveteria do Anderson Bauermann Feltes')
 print('----------------------------------------------Cardápio------------------------------------------------')
