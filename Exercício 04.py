@@ -1,4 +1,4 @@
-# Aluno: Anderson Bauermann Feltes | RU: 3920734
+# Exercício 4
 
 # Início das variáveis
 lista_funcionarios = []
